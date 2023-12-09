@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **GitHub**
   
-- 🤔 I’m trying to learn in-depth about web development.
+- 🤔 I’m trying to learn in-depth about **Web Development**
 
 
 <h2>Project Details</h2>
