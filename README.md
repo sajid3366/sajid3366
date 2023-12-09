@@ -36,7 +36,6 @@
 
   - Live site link: https://tasty-tooth.surge.sh/</p><br/>
 
-  
   <p>
 <h3>Online Study Application</h3>
   
@@ -52,7 +51,7 @@
     submitted and get marks by clicking My
     Assignments.
 
-  - Live site link: https://wrong-motion.surge.sh/</p>
+  - Live site link: https://wrong-motion.surge.sh/</p><br/>
 
   <p>
 <h3>Car Hant Application</h3>
