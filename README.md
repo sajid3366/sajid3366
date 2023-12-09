@@ -65,7 +65,7 @@
   • Mycart route is a private route, user can see how many products they want to buy, if he wants to delete or remove the product on the my cart route they can just click on the delete button. The specific 
     product will be removed from the mycart route.
 
-  - Live site link: https://smooth-channel.surge.sh/</p>
+  - Live site link: https://smooth-channel.surge.sh/</p><br/>
 </div>
 
 
