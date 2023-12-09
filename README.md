@@ -15,7 +15,8 @@
 
 <h2>Project Details</h2>
 <div>
-  <p><h3>Building Management Application</h3>
+  <p>
+<h3>Building Management Application</h3>
     
 • Users can see all the apartments by clicking on
 the apartments route. They can book an
@@ -35,7 +36,8 @@ the user into a member
 
 - Live site link: https://tasty-tooth.surge.sh/</p>
 
-  <p><h3>Online Study Application</h3>
+  <p>
+<h3>Online Study Application</h3>
   
 • A user can see all the assignments and can
 search by the difficulty level. If a user wants to
@@ -51,7 +53,8 @@ Assignments.
 
 - Live site link: https://wrong-motion.surge.sh/</p>
 
-  <p><h3>Car Hant Application</h3>
+  <p>
+<h3>Car Hant Application</h3>
   
 • On the home page, there are 6 car brands. Click on the specific brand it will take a specific brand route, where the user can see the product of the brand.
 
@@ -61,7 +64,7 @@ Assignments.
 
 . Mycart route is a private route, user can see how many products they want to buy, if he wants to delete or remove the product on the my cart route they can just click on the delete button. The specific product will be removed from the mycart route.
 
-- Live site link: https://wrong-motion.surge.sh/</p>
+- Live site link: https://smooth-channel.surge.sh/</p>
 </div>
 
 
