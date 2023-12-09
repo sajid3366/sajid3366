@@ -4,7 +4,7 @@
 
 <h2>Overview</h2>
 
-- 🔭 I’m currently working on **Movie Ticket Management project**
+- 🔭 I’m currently working on **Movie Ticket Management** project
 
 - 🌱 I’m currently learning **Professionalism**
 
