@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-![Stats]([https://www.svgrepo.com/show/7346/statistics.svg](https://www.svgrepo.com/show/7346/statistics.svg))<h3>Stats</h3>
+![Stats](https://www.svgrepo.com/show/7346/statistics.svg)<h3>Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid3366&" alt="sajid3366" /></p>
 
 
