@@ -22,15 +22,18 @@ React based application
 the apartments route. They can book an
 apartment by clicking the agreement button.
 That information will be stored in MongoDB.
+    
 • Clicking the user's photo he/she can see a
 dashboard button. Clicking that button will
 redicate his/her profile section. A member can
 pay the apartment rent and can see the payment
 history.
+
 • There is an admin section, if the user is an admin
 he has the superpower. He can manage all the
 users, announcements, and coupons. He can make
 the user into a member
+
 Live site link: https://tasty-tooth.surge.sh/</p>
 
   <p>Online Study Application, React-based application
