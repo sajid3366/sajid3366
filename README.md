@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-<h1>Current Stats</h1>
+<h2>Current Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid3366&" alt="sajid3366" /></p>
 
 <h2>Techmologies I Use</h2>
@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 align="left">Reach Me Out</h3>
+<h2>Reach Me Out</h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahtesham-sajid-68aa2022a/" target="blank"><img margin-right="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahtesham-sajid-68aa2022a/" height="30" width="40" /></a>
 </p>
