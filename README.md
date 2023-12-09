@@ -2,12 +2,14 @@
 <h1>I'm Ahtesham Sajid</h1>
 <h4>🌐 Web Developer | Transforming ideas into interactive and user-friendly websites. Expertise in front-end technologies with a keen eye for design. Committed to delivering seamless digital experiences. Passionate about innovation, coding, and creating solutions that make an impact. Let's bring your vision to life!</h4>
 
+<h2>Overview</h2>
 
 - 🔭 I’m currently working on **Movie Ticket Management project**
 
 - 🌱 I’m currently learning **Professionalism**
 
 - 👯 I’m looking to collaborate on **GitHub**
+
 
 <h2>Current Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid3366&" alt="sajid3366" /></p>
