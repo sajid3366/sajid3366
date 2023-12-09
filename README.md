@@ -18,53 +18,53 @@
   <p>
 <h3>Building Management Application</h3>
     
-• Users can see all the apartments by clicking on
+  • Users can see all the apartments by clicking on
 the apartments route. They can book an
 apartment by clicking the agreement button.
 That information will be stored in MongoDB.
     
-• Clicking the user's photo he/she can see a
+  • Clicking the user's photo he/she can see a
 dashboard button. Clicking that button will
 redicate his/her profile section. A member can
 pay the apartment rent and can see the payment
 history.
 
-• There is an admin section, if the user is an admin
+  • There is an admin section, if the user is an admin
 he has the superpower. He can manage all the
 users, announcements, and coupons. He can make
 the user into a member
 
-- Live site link: https://tasty-tooth.surge.sh/</p>
+  - Live site link: https://tasty-tooth.surge.sh/</p>
 
   <p>
 <h3>Online Study Application</h3>
   
-• A user can see all the assignments and can
+  • A user can see all the assignments and can
 search by the difficulty level. If a user wants to
 take an assignment he/she has to be logged in.
 
-• A logged-in user can see can take the assignment
+  • A logged-in user can see can take the assignment
 and update it. Who created the assignment only
 has access to delete the assignment.
 
-• Logged-in users can see all the assignments they
+  • Logged-in users can see all the assignments they
 submitted and get marks by clicking My
 Assignments.
 
-- Live site link: https://wrong-motion.surge.sh/</p>
+  - Live site link: https://wrong-motion.surge.sh/</p>
 
   <p>
 <h3>Car Hant Application</h3>
   
-• On the home page, there are 6 car brands. Click on the specific brand it will take a specific brand route, where the user can see the product of the brand.
+  • On the home page, there are 6 car brands. Click on the specific brand it will take a specific brand route, where the user can see the product of the brand.
 
-• In that route, every product will have a details and update button. They will be a private route. If there is no user logged in, it will take you to the login page.
+  • In that route, every product will have a details and update button. They will be a private route. If there is no user logged in, it will take you to the login page.
 
-• On the details page, there will be a button to add to cart. Clicking on it the product is added to the My Cart page.
+  • On the details page, there will be a button to add to cart. Clicking on it the product is added to the My Cart page.
 
-. Mycart route is a private route, user can see how many products they want to buy, if he wants to delete or remove the product on the my cart route they can just click on the delete button. The specific product will be removed from the mycart route.
+  • Mycart route is a private route, user can see how many products they want to buy, if he wants to delete or remove the product on the my cart route they can just click on the delete button. The specific product will be removed from the mycart route.
 
-- Live site link: https://smooth-channel.surge.sh/</p>
+  - Live site link: https://smooth-channel.surge.sh/</p>
 </div>
 
 
