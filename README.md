@@ -37,7 +37,6 @@
   - Live site link: https://tasty-tooth.surge.sh/</p><br/>
 
   
-
   <p>
 <h3>Online Study Application</h3>
   
