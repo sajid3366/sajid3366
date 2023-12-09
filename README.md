@@ -15,9 +15,8 @@
 
 <h2>Project Details</h2>
 <div>
-  <p>Building Management Application,
-React based application
-12/2023 – 12/2023
+  <p><h3>Building Management Application</h3>
+    
 • Users can see all the apartments by clicking on
 the apartments route. They can book an
 apartment by clicking the agreement button.
