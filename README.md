@@ -9,10 +9,10 @@
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-<h3>Current Stats</h3>
+<h1>Current Stats</h1>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid3366&" alt="sajid3366" /></p>
 
-<h3 align="left">Techmologies I Use</h3>
+<h2>Techmologies I Use</h2>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" margin-right="5px" alt="html5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" margin-right="5px" alt="css3" width="50" height="50"/>
