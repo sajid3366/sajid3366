@@ -12,10 +12,46 @@
   
 - 🤔 I’m trying to learn in-depth about web development.
 
+
+<h2>Project Details</h2>
+<div>
+  <p>Building Management Application,
+React based application
+12/2023 – 12/2023
+• Users can see all the apartments by clicking on
+the apartments route. They can book an
+apartment by clicking the agreement button.
+That information will be stored in MongoDB.
+• Clicking the user's photo he/she can see a
+dashboard button. Clicking that button will
+redicate his/her profile section. A member can
+pay the apartment rent and can see the payment
+history.
+• There is an admin section, if the user is an admin
+he has the superpower. He can manage all the
+users, announcements, and coupons. He can make
+the user into a member
+Live site link: https://tasty-tooth.surge.sh/</p>
+
+  <p>Online Study Application, React-based application
+11/2023 – 11/2023
+• A user can see all the assignments and can
+search by the difficulty level. If a user wants to
+take an assignment he/she has to be logged in.
+• A logged-in user can see can take the assignment
+and update it. Who created the assignment only
+has access to delete the assignment.
+• Logged-in users can see all the assignments they
+submitted and get marks by clicking My
+Assignments.
+Live site link: https://wrong-motion.surge.sh/</p>
+</div>
+
+
 <h2>Current Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid3366&" alt="sajid3366" /></p>
 
-<h2>Techmologies I Use</h2>
+<h2>Technologies I Use</h2>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" margin-right="5px" alt="html5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" margin-right="5px" alt="css3" width="50" height="50"/>
