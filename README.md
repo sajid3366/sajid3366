@@ -1,16 +1,13 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQGTVCgXD7n13A/profile-displaybackgroundimage-shrink_350_1400/0/1700324172365?e=1706140800&v=beta&t=V7Nm7yK4YGV9D6suAAVobB_rBjqu02wiRn7W5rkD2EQ)
 <h1>I'm Ahtesham Sajid</h1>
-<h3>A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Movie Ticket Management project**
 
-- 🌱 I’m currently learning **Mongoose and Material UI**
+- 🌱 I’m currently learning **Professionalism**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 📫 How to reach me: ** Via Email, Phone Number**
-
-<h3>Stats</h3>
+[Stats](https://www.svgrepo.com/show/7346/statistics.svg)<h3>Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid3366&" alt="sajid3366" /></p>
 
 
