@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning **Professionalism**
 
 - 👯 I’m looking to collaborate on **GitHub**
-
+  
+- 🤔 I’m trying to learn in-depth about web development.
 
 <h2>Current Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid3366&" alt="sajid3366" /></p>
