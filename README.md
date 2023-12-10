@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Movie Ticket Management** project
 
-- 🌱 I’m currently learning **Professionalism**
+- 🌱 I’m currently learning **MySQL**
 
 - 👯 I’m looking to collaborate on **GitHub**
   
