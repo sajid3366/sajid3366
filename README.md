@@ -4,13 +4,12 @@
 
 <h2>Overview</h2>
 
-- 🔭 I’m currently working on **Movie Ticket Management** project
-
-- 🌱 I’m currently learning **MySQL**
-
-- 👯 I’m looking to collaborate on **GitHub**
-  
-- 🤔 I’m trying to learn in-depth about **Web Development**
+- I’m currently working as a frontend developer at ReadyLab
+- Integrate APIs and ensure proper data rendering on the UI.
+- Review and resolve issues related to design or functionality.
+- Test the website thoroughly and report any issues or bugs to supervisors.
+- Develop web pages based on design specifications and implement required functionalities.
+- Collaborate closely with backend developers to ensure seamless integration and performance.
 
 
 <h2>Project Details</h2>
