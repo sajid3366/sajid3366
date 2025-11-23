@@ -4,7 +4,7 @@
 
 <h2>Overview</h2>
 
-- I’m currently working as a frontend developer at ReadyLab
+- I’m currently working as a frontend developer at GameBD
 - Integrate APIs and ensure proper data rendering on the UI.
 - Review and resolve issues related to design or functionality.
 - Test the website thoroughly and report any issues or bugs to supervisors.
