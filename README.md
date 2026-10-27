@@ -1,124 +1,191 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:1a1b4b,100:7aa2f7&height=230&section=header&text=Ahtesham%20Sajid&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Application%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Enthusiast&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+</p>
 
-# Hi there, I'm Ahtesham Sajid 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ahtesham+Sajid+%F0%9F%91%8B;Application+Engineer+%40+Systech+DataSoft;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;I+build+it%2C+then+I+ship+it+to+production+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</p>
 
-**Application Engineer & Full-Stack Developer** · Dhaka, Bangladesh 🇧🇩
+<p align="center">
+  <a href="https://portfolio-of-sajid.ahteshamsajid8.workers.dev/" title="Portfolio"><img src="https://img.icons8.com/fluency/96/domain.png" width="52" alt="Portfolio" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahtesham-sajid-68aa2022a" title="LinkedIn"><img src="https://img.icons8.com/fluency/96/linkedin.png" width="52" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ahteshamsajid8@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio-of-sajid.ahteshamsajid8.workers.dev/Ahtesham-Sajid-Resume.pdf" title="Resume"><img src="https://img.icons8.com/fluency/96/resume.png" width="52" alt="Resume" /></a>
+</p>
 
-I build scalable, secure and maintainable web apps with **React, Next.js, Node.js and MongoDB**, and ship them to production on Linux servers.
+<p align="center">
+  <a href="https://portfolio-of-sajid.ahteshamsajid8.workers.dev/"><b>Portfolio</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/ahtesham-sajid-68aa2022a"><b>LinkedIn</b></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:ahteshamsajid8@gmail.com"><b>Email</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://portfolio-of-sajid.ahteshamsajid8.workers.dev/Ahtesham-Sajid-Resume.pdf"><b>Resume</b></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-05060a?style=for-the-badge&logo=cloudflare&logoColor=F38020)](https://portfolio-of-sajid.ahteshamsajid8.workers.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtesham-sajid-68aa2022a)
-[![Email](https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahteshamsajid8@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-download-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://portfolio-of-sajid.ahteshamsajid8.workers.dev/Ahtesham-Sajid-Resume.pdf)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajid3366&label=Profile%20views&color=7aa2f7&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/📍-Dhaka%2C%20Bangladesh%20🇧🇩-1a1b4b?style=flat-square" alt="location" />
+</p>
 
-</div>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## 🧑‍💻 About Me
 
-- 💼 Application Engineer at **Systech DataSoft** (since 07/2026), building business applications from UI to backend APIs
+<img align="right" width="360" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/images/coding.gif" alt="coding" />
+
+I build **scalable, secure and maintainable** web apps with **React, Next.js, Node.js and MongoDB**, and ship them to production on Linux servers.
+
+- 💼 **Application Engineer** at **Systech DataSoft** (since 07/2026), building business apps from UI to backend APIs
 - 🎮 Frontend developer behind **GameBD**, a real-money gaming platform serving **17K+ active users**
 - 🛠️ I own features end-to-end: design the API, build the UI, then deploy behind **Nginx + SSL + PM2** with automated backups
-- 🐧 Real-world DevOps exposure: Linux VPS, self-hosted GitLab CI/CD, DigitalOcean, AWS EC2/S3, Cloudflare
-- 🎓 B.Sc. in CSE, Bangladesh University (CGPA 3.83 / 4.00)
-- 🌱 Currently deepening my DevOps and system design skills
+- 🐧 Real-world DevOps: Linux VPS, self-hosted GitLab CI/CD, DigitalOcean, AWS EC2/S3, Cloudflare
+- 🎓 **B.Sc. in CSE**, Bangladesh University (CGPA **3.83 / 4.00**)
+- 🌱 Currently deepening my **DevOps** and **system design** skills
+
+<br clear="right" />
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## 💼 Experience
 
-| Period | Role | Company |
-| --- | --- | --- |
-| 07/2026 – Present | Application Engineer | Systech DataSoft |
-| 04/2026 – 06/2026 | Frontend Developer (Contract) | Nexoda.io, Orbit event management admin panel |
-| 12/2024 – 03/2026 | Frontend Developer (Remote) | Game BD |
-| 06/2024 – 11/2024 | Full Stack Developer (Remote) | Shamaz Trading |
+| | Role | Company | Period |
+| :---: | --- | --- | --- |
+| 🟢 | **Application Engineer** | Systech DataSoft | `07/2026 – Present` |
+| 🔵 | **Frontend Developer** (Contract) | Nexoda.io · Orbit event management admin panel | `04/2026 – 06/2026` |
+| 🔵 | **Frontend Developer** (Remote) | Game BD | `12/2024 – 03/2026` |
+| 🔵 | **Full Stack Developer** (Remote) | Shamaz Trading | `06/2024 – 11/2024` |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## 🚀 Featured Projects
 
-### 🎮 [GameBD](https://play.gamebd.co): Tournament Gaming Platform
-Real-money gaming platform with tournaments, daily check-ins and paid/free game categories. Integrated **bKash, Nagad and Pathao** payments on the frontend and scaled to 17,000+ users.
-`Next.js` `TypeScript` `TanStack Query` `Tailwind CSS` `shadcn/ui` `next-intl`
-
-### 📦 [Shamaz Trading DMS](https://shamaztrading.com): Dealer Management System
-Secure dealer management system with a REST API, JWT auth and role-based access. I set up and maintain its production deployment.
-`Node.js` `Express` `MongoDB` `JWT` `Nginx` `PM2` `Linux VPS`
-
-### ✅ [Plan Pixel](https://plan-pixel.vercel.app): Task Management App
-Productivity app with user and admin dashboards and real-time task updates.
-`Next.js` `Tailwind CSS` `Flowbite`
-
-### 🗓️ Orbit: Event Management Admin Panel (Nexoda.io)
-Built and improved the admin dashboard for end-to-end event, user and operations management, integrating REST APIs with the backend team.
-`Next.js` `REST API` `Admin Dashboard`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://play.gamebd.co">GameBD</a></h3>
+      <sub><b>Tournament Gaming Platform</b></sub>
+      <p>Real-money gaming platform with tournaments, daily check-ins and paid/free game categories. Integrated <b>bKash, Nagad and Pathao</b> payments on the frontend and scaled to <b>17,000+ users</b>.</p>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white" />
+      <img src="https://img.shields.io/badge/next--intl-1a1b4b?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://shamaztrading.com">Shamaz Trading DMS</a></h3>
+      <sub><b>Dealer Management System</b></sub>
+      <p>Secure dealer management system with a REST API, JWT auth and role-based access. I set up and maintain its <b>production deployment</b>.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_VPS-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ <a href="https://plan-pixel.vercel.app">Plan Pixel</a></h3>
+      <sub><b>Task Management App</b></sub>
+      <p>Productivity app with user and admin dashboards and real-time task updates.</p>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flowbite-1C64F2?style=flat-square&logo=flowbite&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗓️ Orbit</h3>
+      <sub><b>Event Management Admin Panel · Nexoda.io</b></sub>
+      <p>Built and improved the admin dashboard for end-to-end event, user and operations management, integrating REST APIs with the backend team.</p>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Admin_Dashboard-1a1b4b?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>More personal projects</b></summary>
+<summary><b>✨ More personal projects</b></summary>
 
 <br/>
 
 | Project | What it does | Live |
-| --- | --- | --- |
-| 🏢 Building Management App | Apartment booking, rent payments and history, admin control over users, announcements and coupons (MongoDB) | [Visit](https://tasty-tooth.surge.sh/) |
-| 📚 Online Study App | Browse and search assignments by difficulty, submit work, track marks, owner-only delete | [Visit](https://wrong-motion.surge.sh/) |
-| 🚗 Car Hunt App | Brand-wise car listings, private routes, add to cart and cart management | [Visit](https://smooth-channel.surge.sh/) |
+| --- | --- | :---: |
+| 🏢 **Building Management App** | Apartment booking, rent payments and history, admin control over users, announcements and coupons (MongoDB) | [Visit](https://tasty-tooth.surge.sh/) |
+| 📚 **Online Study App** | Browse and search assignments by difficulty, submit work, track marks, owner-only delete | [Visit](https://wrong-motion.surge.sh/) |
+| 🚗 **Car Hunt App** | Brand-wise car listings, private routes, add to cart and cart management | [Visit](https://smooth-channel.surge.sh/) |
 
 </details>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
 ## 🧰 Tech Stack
 
-**Frontend**
+<table align="center">
+  <tr>
+    <td align="center" width="160"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="frontend" /><br/>
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white" />
+      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" alt="backend" /><br/>
+      <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚀 DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ubuntu,nginx,docker,gitlab,aws,cloudflare&theme=dark" alt="devops" /><br/>
+      <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,vercel&theme=dark" alt="tools" /></td>
+  </tr>
+</table>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**DevOps & Deployment**
-
-![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2_/_S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sajid3366&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid3366&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sajid3366&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid3366&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sajid3366&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=sajid3366&theme=tokyonight&hide_border=true&background=0b0f19" alt="GitHub streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajid3366&theme=tokyo-night&hide_border=true&bg_color=0b0f19" width="100%" alt="Contribution graph" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## 🤝 Let's Connect
 
-I'm open to new projects and opportunities. Whether it's a product idea, a role, or just a hello, my inbox is open.
+<p align="center">
+  I'm open to new projects and opportunities. Whether it's a product idea, a role, or just a hello, <b>my inbox is open</b>. 📬
+</p>
 
-📧 [ahteshamsajid8@gmail.com](mailto:ahteshamsajid8@gmail.com) · 🌐 [Portfolio](https://portfolio-of-sajid.ahteshamsajid8.workers.dev/) · 💼 [LinkedIn](https://www.linkedin.com/in/ahtesham-sajid-68aa2022a)
+<p align="center">
+  <a href="mailto:ahteshamsajid8@gmail.com"><img src="https://img.shields.io/badge/ahteshamsajid8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio-of-sajid.ahteshamsajid8.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-1a1b4b?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ahtesham-sajid-68aa2022a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,60:1a1b4b,100:0b0f19&height=120&section=footer" width="100%" alt="footer" />
+</p>
